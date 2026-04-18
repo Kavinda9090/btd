@@ -1,2 +1,2 @@
 window.BTD_API_BASE =
-  window.BTD_API_BASE || "https://btd.infinityfreeapp.com/api";
+  window.BTD_API_BASE || "https://priority-static-api.nkstatic.com/storage/static";
